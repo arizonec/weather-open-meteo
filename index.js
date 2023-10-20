@@ -1,6 +1,6 @@
 const days = ['вс', 'пн', 'вт', 'ср', 'чт', 'пт', 'сб'];
 const table = document.querySelector('.table');
-const button = document.querySelector('.btn');
+const button = document.querySelector('.button');
 const firstInput = document.querySelector('.latitude');
 const secondInput = document.querySelector('.longitude');
 
