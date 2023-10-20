@@ -4,3 +4,5 @@
 Воркута = 67.30 64.02 <br/>
 Сочи = 43.59 39.72 <br/>
 Челябинск = 55.09 61.24 <br/>
+
+<h1><a href="https://arizonec.github.io/weather-open-meteo/">Ссылка на деплой</a></h1>
