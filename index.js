@@ -46,6 +46,7 @@ const toDays = (day) => {
 
 button.addEventListener('click', () => {
     table.innerHTML = '';
+    table.innerHTML += `<td class="title">Погода на ближайшие 10 дней</td>`;
     getData();
 });
 firstInput.addEventListener('keyup', (e) => {
