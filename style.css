@@ -1,0 +1,53 @@
+.root {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    width: 100%;
+    height: 70vh;
+}
+.latitude,
+.longitude,
+.button {
+    margin-bottom: 10px;
+}
+
+.table {
+    display: flex;
+    flex-direction: column;
+    width: 330px;
+    font-weight: 700;
+}
+
+.title {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 328px;
+    border: 1px solid black;
+    padding: 3px 0;
+    margin-left: -2px;
+    margin-bottom: -2px;
+}
+
+.day {
+    display: flex;
+    letter-spacing: 1px;
+    /* border: 1px dotted black; */
+    width: 100%;
+}
+
+.day td {
+    padding: 5px;
+    border: 1px dotted black;
+    width: 110px;
+    height: 15px;
+}
+.date {
+    display: flex;
+    justify-content: flex-end;
+}
+.weather {
+    display: flex;
+    align-items: center;;
+}
